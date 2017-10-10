@@ -1,0 +1,9 @@
+## Interface: 11200
+## Author: moh
+## Title: KLHHaremMeter
+## Version: 1.0
+## LoadOnDemand: 1
+## RequiredDeps: KLHHaremMeter
+## LoadWith: KLHThreatMeter
+
+KLHHaremMeter.lua
